@@ -1,0 +1,29 @@
+.application{
+  border: 1px solid black;
+  min-height: 200px;
+  width: 100%;
+}
+
+.foo{
+  background-color: #EFE;
+  min-height: 500px;
+  width: 100%;
+}
+
+.bar{
+  background-color: #EEF;
+  min-height: 400px;
+  width: 90%;
+}
+
+.slow-model{
+  background-color: #FEE;
+  min-height: 300px;
+  width: 80%;
+}
+
+.slow-model-loading{
+  background-color: #FFB;
+  min-height: 300px;
+  width: 80%;
+}
